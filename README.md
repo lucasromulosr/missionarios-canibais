@@ -1,7 +1,7 @@
 # missionarios-canibais
 
   
-# apresentação rápida
+### apresentação rápida
   
         Problema: 3 missionarios e 3 canibais estão em uma margem do rio,
     e precisam chegar ao outro lado.
