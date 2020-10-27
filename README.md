@@ -3,7 +3,7 @@
   
 # apresentação rápida
   
->        Problema: 3 missionarios e 3 canibais estão em uma margem do rio,
+        Problema: 3 missionarios e 3 canibais estão em uma margem do rio,
     e precisam chegar ao outro lado.
         A solução do problema consiste em atravessar todos personagens
     para a margem oposta.
