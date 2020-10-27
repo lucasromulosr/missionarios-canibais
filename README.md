@@ -13,5 +13,3 @@
     missionários viram lanchinho.  
         A solução do problema é encontrada através de um algoritmo de 
     Inteligência Artificial que utiliza Busca em Profundidade Iterativo.
-    
-  o README ainda está sendo montado!
